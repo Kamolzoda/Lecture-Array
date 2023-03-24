@@ -18,9 +18,11 @@
 ## CHANGE ELEMENTS IN ARRAY
 
 > Вы также можете добавлять элементы или изменять элементы, обращаясь к индексу ценить
-> ![](./%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-03-24%20102515.png)
+
+![](./%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-03-24%20102515.png)
 
 > Предположим, массив состоит из двух элементов. Если вы попытаетесь добавить элемент с индексом 3(четвертый элемент), третий элемент будет неопределенным. Например,
+>
 > ![](./%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-03-24%20102628.png)
 
 ## Array Methods
@@ -31,45 +33,59 @@
 
 > Вы можете использовать встроенный метод push() и unshift() для добавления элементов в множество.
 
-> - Push
+> - Push()
+>
 >   ![](./%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-03-24%20104608.png)
 
-> - Unshift
->   ![](./%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-03-24%20103932.png)
+> - Unshift()
+>
+> ![](./%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-03-24%20103932.png)
 
 ## Delete an Element in Array
 
-> - Pop
+> - Pop()
 >   ![](./%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-03-24%20104238.png) > ![](./%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-03-24%20104259.png)
 
-> - Shift
+> - Shift()
 >   ![](./%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-03-24%20105310.png) > ![](./%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-03-24%20105401.png)
 
 ## JavaScript array methods
 
-> - Reverse
+> - Reverse()
 >   ![](./%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-03-24%20105437.png)
 
-> - Concat
+> - Concat()
 >   ![](./%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-03-24%20105931.png)
 
 ## JavaScript array methods
 
-> - IndexOf
+> - IndexOf()
 >   ![](./%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-03-24%20110444.png)
 
-> - Includes
+> - Includes()
 >   ![](./%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-03-24%20110535.png)
 
 ## JavaScript array methods
 
+> - Splice()
+>   ![](./%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-03-24%20115019.png)
+
 ## JavaScript array methods
+
+> - Slice()
+>   ![](./%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-03-24%20120231.png)
 
 # JavaScript array methods callbacks
 
 ## JavaScript array methods
 
+> - Map()
+>   ![](./%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-03-24%20120551.png)
+
 ## JavaScript array methods
+
+> - Find()
+>   ![](./%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA%20%D1%8D%D0%BA%D1%80%D0%B0%D0%BD%D0%B0%202023-03-24%20120711.png)
 
 ## JavaScript array methods
 
